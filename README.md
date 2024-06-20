@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Hello There 👋 
+- Currently going to FAU 🦉 for my BA in Computer Science
+- My classes for the Summer are:
+  * CDA3203 (Digital Logic Design)
+  * COT200 (Computation Theory)
+  * COP3035 (Intro to Python Programming)
+- Looking for an Internship in Software Development
+- Contact me at DylanLiesenfelt@Proton.me
 <!--
 **DylanLiesenfelt/DylanLiesenfelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
