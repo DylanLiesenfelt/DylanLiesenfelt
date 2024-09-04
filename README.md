@@ -1,10 +1,11 @@
 ## Hello There 👋 
 - Currently going to FAU 🦉 for my BA in Computer Science
-- My classes for the Summer are:
-  * CDA3203 (Digital Logic Design)
-  * COT200 (Computation Theory)
-  * COP3035 (Intro to Python Programming)
-- Looking for an Internship in Software Development
+- My classes for the Fall Semester are:
+  * COP3410 (Data Structures and Algorithims in Python)
+  * COP3813 (Intro to Internet Computing)
+  * CAP4773 (Intro to Data Science and Analytics)
+  * COT5930 (Ethics in  AI, Data Science, and cyber Security)
+- Looking for an Internship in Software Development/Engineering or Data Science
 - Contact me at DylanLiesenfelt@Proton.me
 <!--
 **DylanLiesenfelt/DylanLiesenfelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
