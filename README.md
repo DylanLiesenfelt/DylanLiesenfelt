@@ -5,8 +5,8 @@
   * COP3813 (Intro to Internet Computing)
   * CAP4773 (Intro to Data Science and Analytics)
   * COT5930 (Ethics in  AI, Data Science, and cyber Security)
-- Looking for an Internship in Software Development/Engineering or Data Science
-- Contact me at DylanLiesenfelt@Proton.me
+- Looking for an Internship in Software Development/Engineering or Data Science/Engineering
+- Contact me at dylanliesenfelt@Proton.me or dliesenfelt2022@fau.edu
 <!--
 **DylanLiesenfelt/DylanLiesenfelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
