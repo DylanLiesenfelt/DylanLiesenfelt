@@ -1,5 +1,5 @@
 ## Hello There 👋 
-- Currently going to FAU 🦉 for my BA in Computer Science
+- Currently attending FAU 🦉 for my BA, Majoring in Computer Science and Minoring in Artificial intelligence 
 - My classes for the Fall Semester are:
   * COP3410 (Data Structures and Algorithims in Python)
   * COP3813 (Intro to Internet Computing)
