@@ -11,7 +11,7 @@
   * Computer Architecture - CDA4102
   * Design/Analysis of Algorithms - COT4400
   * Full-Stack Web Development - COP4808
-  * Intro to Artificial Intelligence
+  * Intro to Artificial Intelligence - CAP4630
   * Methods of Calculus - MAC2233
  
 - Looking for an Internship in Software Development/Engineering or Data Science/Engineering
