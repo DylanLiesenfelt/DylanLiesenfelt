@@ -1,9 +1,8 @@
-## Howdy 👋 
+## Hello 👋 
 - Currently attending FAU 🦉 for my bachelors, Majoring in Computer Science and Minoring in Artificial Intelligence
  
-- Looking for an Internship in Software Engineering or Data Science/Machine Learning
+- Looking for an Internship in Software Engineering, Backend Engineering Data Science/Machine Learning
 - Contact me at djliesenfelt@gmail.com or dliesenfelt2022@fau.edu
-- bubbanaut.net
 <!--
 **DylanLiesenfelt/DylanLiesenfelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
