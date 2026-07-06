@@ -20,9 +20,9 @@ Looking for entry level work in:
 
 ## Currently Working On:
 
-- **Stonks:**
+- **StonksAPI:**
 
-A FastAPI service I use for my personal website to power finance and stock related projects.
+A financial data transform service I use for my personal website to power finance and stock related projects.
 
 - **Marlin Cycling Computer:**
 
