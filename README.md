@@ -31,6 +31,8 @@ An open-world RPG built from scratch in Rust with no game engine. You play succe
 
 The design came before the code. I wrote the full game design document in an iterative review loop with Claude Fable 5.1, and now in Claude Code with Fable 5.1, it plans each milestone against that document while Opus 5 implements it. It's a managed AI development workflow rather than vibe coding, which keeps the architecture deliberate and the codebase maintainable, and let me see how far these models can be pushed.
 
+Currently in a headless build stage, once a playable demo is ready i'll post more here.
+
 **StonksAPI**
 
 A backend service for financial market data, built as an R&D tool for developing and testing trading strategies. It supports backtesting, paper trading, custom indexes, and access to raw market data and news. You can use the hosted version on my site or spin up your own instance and modify the codebase to fit your needs.
