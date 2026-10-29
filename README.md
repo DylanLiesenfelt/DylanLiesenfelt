@@ -25,13 +25,12 @@ Entry level roles in:
 
 ## Currently Working On
 
-**Echoes of Anima**
+**Anima: Bloodlines // Bubba Engine**
+(Game)
+a single-player, generational action RPG set in a persistent, simulated, fantasy medieval world. Players live as individual characters within a society of autonomous NPCs who form relationships, inherit genetics, develop skills, work, trade, build settlements, and age and die. The world evolves independently through interconnected systems governing economies, politics, cultures, ecology, and magic. When a character dies, gameplay continues through their bloodline, allowing players to experience and influence a living world across. **Inspirations: Kenshi, CK3/EU3&4/Vic3, Mount and Blade, TES Series, Kingdom Come, Manor Lords, City Skylines, Diablo, OSRS, ASOIAF and LOTR series.** 
 
-An open-world RPG built from scratch in Rust with no game engine. You play successive reincarnations of a player character while the world grows and changes around you. The world is the protagonist, not the player, and what you do with each life is yours to decide: scholar, merchant, wandering mage, or something else entirely.
-
-The design came before the code. I wrote the full game design document in an iterative review loop with Claude Fable 5.1, and now in Claude Code with Fable 5.1, it plans each milestone against that document while Opus 5 implements it. It's a managed AI development workflow rather than vibe coding, which keeps the architecture deliberate and the codebase maintainable, and let me see how far these models can be pushed.
-
-Currently in a headless build stage, once a playable demo is ready i'll post more here.
+(Engine and Editior)
+Bubba Engine is a custom 3D game engine built from scratch in Rust using wgpu, designed for modularity, simulation, and data-driven game development.
 
 **StonksAPI**
 
