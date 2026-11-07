@@ -30,7 +30,7 @@ Entry level roles in:
 a single-player, generational action RPG set in a persistent, simulated, fantasy medieval world. Players live as individual characters within a society of autonomous NPCs who form relationships, inherit genetics, develop skills, work, trade, build settlements, and age and die. The world evolves independently through interconnected systems governing economies, politics, cultures, ecology, and magic. When a character dies, gameplay continues through their bloodline, allowing players to experience and influence a living world across. **Inspirations: Kenshi, CK3/EU3&4/Vic3, Mount and Blade, TES Series, Kingdom Come, Manor Lords, City Skylines, Diablo, OSRS, ASOIAF and LOTR series.** 
 
 (Engine and Editior)
-Bubba Engine is a custom 3D game engine built from scratch in Rust using wgpu, designed for modularity, simulation, and data-driven game development.
+Carbide Engine is a custom 3D game engine built from scratch in Rust, designed for modularity, simulation, and data-driven game and simulation development.
 
 **StonksAPI**
 
