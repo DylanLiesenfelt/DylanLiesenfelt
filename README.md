@@ -15,7 +15,7 @@ For a more interactive look at what I've built, visit [www.bubbanaut.net](https:
 Entry level roles in:
 
 - Backend Engineering
-- Python / Rust/ C++ Development
+- Python / Rust / C++ Development
 - Embedded Systems
 - General Software Engineering
 
@@ -25,7 +25,7 @@ Entry level roles in:
 
 ## Currently Working On
 
-**Anima: Bloodlines // Bubba Engine**
+**Anima: Bloodlines // Carbide Engine**
 (Game)
 a single-player, generational action RPG set in a persistent, simulated, fantasy medieval world. Players live as individual characters within a society of autonomous NPCs who form relationships, inherit genetics, develop skills, work, trade, build settlements, and age and die. The world evolves independently through interconnected systems governing economies, politics, cultures, ecology, and magic. When a character dies, gameplay continues through their bloodline, allowing players to experience and influence a living world across. **Inspirations: Kenshi, CK3/EU3&4/Vic3, Mount and Blade, TES Series, Kingdom Come, Manor Lords, City Skylines, Diablo, OSRS, ASOIAF and LOTR series.** 
 
