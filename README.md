@@ -15,7 +15,7 @@ For a more interactive look at what I've built, visit [www.bubbanaut.net](https:
 Entry level roles in:
 
 - Backend Engineering
-- Python / C++ Development
+- Python / Rust/ C++ Development
 - Embedded Systems
 - General Software Engineering
 
